@@ -1,0 +1,1 @@
+var mdp_ngaurcom = {"style":"compact","timeout":"0","closeable":"false","title":"It Looks Like You Have AdBlocker Enabled","content":"Please disable AdBlock to proceed to the destination page.\r\n\r\n\u00a0","bg_color":"rgba(0,0,0,0.65)","modal_color":"rgba(255,255,255,1)","text_color":"#23282d","blur":"true"};
