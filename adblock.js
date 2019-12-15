@@ -1,0 +1,1 @@
+var mdp_ngaur = {"md_select_all":"true","md_copy":"true","md_cut":"true","md_paste":"false","md_save":"true","md_view_source":"true","md_print_page":"true","md_developer_tool":"true","md_right_click":"true","md_text_selection":"true","md_image_dragging":"true"};
